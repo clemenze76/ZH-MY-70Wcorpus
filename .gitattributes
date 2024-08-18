@@ -1,2 +1,0 @@
-zh-my_40W.zh filter=lfs diff=lfs merge=lfs -text
-zh-my_40W.my filter=lfs diff=lfs merge=lfs -text
